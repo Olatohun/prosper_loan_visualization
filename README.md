@@ -1,6 +1,7 @@
 # Prosper Loan Data Explanation
 ## by Maryam Oyeyiola
 
+This repository contains the third and final project of the ALX-T’s Data Analyst program in association with Udacity. 
 
 ## Dataset
 
